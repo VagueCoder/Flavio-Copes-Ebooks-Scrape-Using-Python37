@@ -21,4 +21,4 @@ python flaviocopes_scrape.py
 
 ### Who is Flavio Copes?
 Flavio is the author of [The JavaScript Handbook](https://flaviocopes.com/page/javascript-handbook/) and the owner of [FlavioCopes.com](https://flaviocopes.com/). The site contains the knowledge articles and free ebooks on C, Linux, Python, JavaScript, React.js, Node.js, and what not. Check out his work at Git too, at [github.com/flaviocopes](https://github.com/flaviocopes).
-Appreciate the Work at: [@flaviocopes](https://twitter.com/flaviocopes)
+Appreciate his work at: [@flaviocopes](https://twitter.com/flaviocopes)
