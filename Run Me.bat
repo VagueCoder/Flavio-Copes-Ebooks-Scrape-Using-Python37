@@ -1,0 +1,1 @@
+cmd /k "cd .\venv\Scripts & activate & cd ..\.. & python flaviocopes_scrape.py

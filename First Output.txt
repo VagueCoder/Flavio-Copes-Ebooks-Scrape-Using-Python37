@@ -1,0 +1,27 @@
+(venv) I:\Projects & Technical Stuff\Python Related Stuff\Projects using VS Code\! Pending\Flavio Copes Ebooks Scrape>python flaviocopes_scrape.py    
+Writing the file "The Linux Commands Handbook.pdf" of size 14824818 (14.14 Megabytes)
+[========================================================================] 100%
+Writing the file "The Deno Beginner’s Handbook.pdf" of size 4311709 (4.11 Megabytes)
+[========================================================================] 100%
+Writing the file "The JavaScript Beginner’s Handbook.pdf" of size 557772 (544.70 Kilobytes)
+[========================================================================] 100%
+Writing the file "The C Beginner’s Handbook.pdf" of size 1251133 (1.19 Megabytes)
+[========================================================================] 100%
+Writing the file "The Next.js Handbook.pdf" of size 8943774 (8.53 Megabytes)
+[========================================================================] 100%
+Writing the file "The Svelte Handbook.pdf" of size 779822 (761.54 Kilobytes)
+[========================================================================] 100%
+Writing the file "The HTML Handbook.pdf" of size 892115 (871.21 Kilobytes)
+[========================================================================] 100%
+Writing the file "The CSS Handbook.pdf" of size 3107509 (2.96 Megabytes)
+[========================================================================] 100%
+Writing the file "JavaScript from ES5 to ESNext.pdf" of size 10673174 (10.18 Megabytes)
+[========================================================================] 100%
+Writing the file "The React Handbook.pdf" of size 5638791 (5.38 Megabytes)
+[========================================================================] 100%
+Writing the file "The Node.js Handbook.pdf" of size 3288916 (3.14 Megabytes)
+[========================================================================] 100%
+Writing the file "The Express.js Handbook.pdf" of size 1292568 (1.23 Megabytes)
+[========================================================================] 100%
+Writing the file "The Vue.js Handbook.pdf" of size 11924092 (11.37 Megabytes)
+[========================================================================] 100%

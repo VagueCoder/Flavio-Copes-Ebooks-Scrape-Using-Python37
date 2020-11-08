@@ -1,0 +1,14 @@
+(venv) I:\Projects & Technical Stuff\Python Related Stuff\Projects using VS Code\! Pending\Flavio Copes Ebooks Scrape>python flaviocopes_scrape.py
+File "The Linux Commands Handbook.pdf" of size 14824818 (14.14 Megabytes) already exists. Skipping download.
+File "The Deno Beginner’s Handbook.pdf" of size 4311709 (4.11 Megabytes) already exists. Skipping download.
+File "The JavaScript Beginner’s Handbook.pdf" of size 557772 (544.70 Kilobytes) already exists. Skipping download.
+File "The C Beginner’s Handbook.pdf" of size 1251133 (1.19 Megabytes) already exists. Skipping download.
+File "The Next.js Handbook.pdf" of size 8943774 (8.53 Megabytes) already exists. Skipping download.
+File "The Svelte Handbook.pdf" of size 779822 (761.54 Kilobytes) already exists. Skipping download.
+File "The HTML Handbook.pdf" of size 892115 (871.21 Kilobytes) already exists. Skipping download.
+File "The CSS Handbook.pdf" of size 3107509 (2.96 Megabytes) already exists. Skipping download.
+File "JavaScript from ES5 to ESNext.pdf" of size 10673174 (10.18 Megabytes) already exists. Skipping download.
+File "The React Handbook.pdf" of size 5638791 (5.38 Megabytes) already exists. Skipping download.
+File "The Node.js Handbook.pdf" of size 3288916 (3.14 Megabytes) already exists. Skipping download.
+File "The Express.js Handbook.pdf" of size 1292568 (1.23 Megabytes) already exists. Skipping download.
+File "The Vue.js Handbook.pdf" of size 11924092 (11.37 Megabytes) already exists. Skipping download.
